@@ -7,12 +7,17 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git:loadAndRunQCC.groovy": [
+      "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git",
+      "loadAndRunQCC.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.4",
     "skinBranch": "master",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.4",
+    "currentVersion": "0.19.5",
     "notifiedArduinoDep": true
   }
 }
