@@ -15,6 +15,10 @@
     "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git:loadAndRunQCC.groovy": [
       "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git",
       "loadAndRunQCC.groovy"
+    ],
+    ":": [
+      "",
+      ""
     ]
   },
   "BowlerStudioConfigs": {
