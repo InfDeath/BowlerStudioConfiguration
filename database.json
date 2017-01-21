@@ -7,25 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/5ebd001fa50a564f537d1168388cc01d.git:SpiralShelves.groovy": [
-      "https://gist.github.com/5ebd001fa50a564f537d1168388cc01d.git",
-      "SpiralShelves.groovy"
-    ],
-    "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git:loadAndRunQCC.groovy": [
-      "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git",
-      "loadAndRunQCC.groovy"
-    ],
-    ":": [
-      "",
-      ""
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.4",
-    "skinBranch": "master",
+    "skinBranch": "0.20.3",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.6",
+    "currentVersion": "0.20.3",
     "notifiedArduinoDep": true
   }
 }
