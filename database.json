@@ -7,7 +7,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/c5ee1939b4db93c6b8ee25206fd2f31f.git:ModifiedAnimatronics.groovy": [
+      "https://gist.github.com/c5ee1939b4db93c6b8ee25206fd2f31f.git",
+      "ModifiedAnimatronics.groovy"
+    ],
+    "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git:loadAndRunQCC.groovy": [
+      "https://gist.github.com/73c0e5f39a156aa0741ff2187719f40f.git",
+      "loadAndRunQCC.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.4",
     "skinBranch": "0.20.4",
