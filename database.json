@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/2cdd6786d3efc74a60d64224e0b74bc4.git:TextToSpeech.groovy": [
+      "https://gist.github.com/2cdd6786d3efc74a60d64224e0b74bc4.git",
+      "TextToSpeech.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.4",
     "skinBranch": "0.20.4",
