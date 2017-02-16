@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git:cylinder.groovy": [
+      "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git",
+      "cylinder.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.4",
     "skinBranch": "0.20.4",
