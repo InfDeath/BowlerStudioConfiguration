@@ -15,6 +15,14 @@
     "https://gist.github.com/c5ee1939b4db93c6b8ee25206fd2f31f.git:ModifiedAnimatronics.groovy": [
       "https://gist.github.com/c5ee1939b4db93c6b8ee25206fd2f31f.git",
       "ModifiedAnimatronics.groovy"
+    ],
+    ":": [
+      "",
+      ""
+    ],
+    "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git:cylinder.groovy": [
+      "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git",
+      "cylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
