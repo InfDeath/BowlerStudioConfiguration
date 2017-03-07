@@ -7,24 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/82acfc96cd5781af53d46181329bbe47.git:LoadSTL.groovy": [
-      "https://gist.github.com/82acfc96cd5781af53d46181329bbe47.git",
-      "LoadSTL.groovy"
-    ],
-    "https://gist.github.com/c5ee1939b4db93c6b8ee25206fd2f31f.git:ModifiedAnimatronics.groovy": [
-      "https://gist.github.com/c5ee1939b4db93c6b8ee25206fd2f31f.git",
-      "ModifiedAnimatronics.groovy"
-    ],
-    ":": [
-      "",
-      ""
-    ],
-    "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git:cylinder.groovy": [
-      "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git",
-      "cylinder.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.4",
     "skinBranch": "0.20.5",
