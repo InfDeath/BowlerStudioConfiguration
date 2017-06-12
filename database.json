@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/c66f29ecfd49d793873e4cb3275f616d.git:roundedcube.groovy": [
+      "https://gist.github.com/c66f29ecfd49d793873e4cb3275f616d.git",
+      "roundedcube.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.4",
     "skinBranch": "0.20.5",
