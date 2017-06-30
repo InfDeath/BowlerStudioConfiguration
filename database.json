@@ -11,6 +11,10 @@
     "https://gist.github.com/c66f29ecfd49d793873e4cb3275f616d.git:roundedcube.groovy": [
       "https://gist.github.com/c66f29ecfd49d793873e4cb3275f616d.git",
       "roundedcube.groovy"
+    ],
+    "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git:cylinder.groovy": [
+      "https://gist.github.com/a0f699c93d8fd37e4a2672ef1f4620f1.git",
+      "cylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
